@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0037/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 安樂集
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1958.xml
+    old_id: T47n1958
+hash: sha256:5c56f7c9b7c769dedee59206e92aeb73c33f82b1c136bde83b4c339c57d006b4

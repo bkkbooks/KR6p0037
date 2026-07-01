@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6p0037/T/v1
+canonical_location: https://kanripo.org/bkk/KR6p0037/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 安樂集
+  identifiers:
+    krp: KR6p0037
+    cbeta: T47n1958
+    cbeta_old_id: T47n1958
+    authorityid: CA0000090
+    json_key: T1958
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1958.xml
+    old_id: T47n1958
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0037_000-T.yaml, hash: 'sha256:5c56f7c9b7c769dedee59206e92aeb73c33f82b1c136bde83b4c339c57d006b4'}
+  - {seq: 1, filename: KR6p0037_001-T.yaml, hash: 'sha256:52ed6ee1389b9110f462c796670bdca89326bfe2da807a64b8ea24262f80e4c5'}
+  - {seq: 2, filename: KR6p0037_002-T.yaml, hash: 'sha256:5efe0adec76062102de1b69842f4dd00badaf4237d1edfba3f42b44794b221c0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0037_000-T.markers.yaml, hash: 'sha256:c25a01600ad8b767bb8ae9c6393af7630c9d44f2efaba3ad66d8a3b0520195c7'}
+  - {seq: 1, role: markers, filename: assets/KR6p0037_001-T.markers.yaml, hash: 'sha256:53f0d5bbeebd71863a5dfa0e400a90aae0cae9a80bbb24889da5ad506a499203'}
+  - {seq: 2, role: markers, filename: assets/KR6p0037_002-T.markers.yaml, hash: 'sha256:da172b718d0ed099bebc236f2c58d6ac099e8087f58000c5b688a1c7cd51eeda'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0037_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 13915
+  label: 安樂集卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0037_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11068
+  label: 安樂集卷下
+  type: juan
+  level: 1
+hash: sha256:4c903d27a3fe19cbefaa494ddecbe6675c0fd2c510c11884b081f7a300a8e707
